@@ -1,3 +1,5 @@
+--NOTHING
+
 warn ("LoadingScreen working only you put in file autoexec ")
 --delete loding... good in put auto execute
 local player = game.Players.LocalPlayer
